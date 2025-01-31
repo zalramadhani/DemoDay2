@@ -10,6 +10,24 @@ public class DemoDay2 {
 
 		//this is coming from gitHub
 	}
-
+		
+	public void add(int a, int b) { 
+		System.out.println(a+b);
+	}
+	
+	
+	//subtract method 
+	
+	public void subtract (int a, int b) { 
+		System.out.println(a - b);
+	}
+	
+	
+	
+	//divide method 
+	
+	public void divide (int a, int b) { 
+		System.out.println(a/b);
+	}
 }
 	
