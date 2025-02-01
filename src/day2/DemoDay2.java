@@ -29,5 +29,10 @@ public class DemoDay2 {
 	public void divide (int a, int b) { 
 		System.out.println(a/b);
 	}
+	
+	public void getInfo ( String name, int age) { 
+		System.out.println(name);
+		System.out.println(age);
+	}
 }
 	
