@@ -34,5 +34,6 @@ public class DemoDay2 {
 		System.out.println(name);
 		System.out.println(age);
 	}
+	//WE ARE PULLING THIS FROM GITHUB
 }
 	
